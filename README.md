@@ -7,8 +7,8 @@ MAIN<br><br>
 OTHER<br><br>
 [Debunking Custom ISOS And Windows Optimizations](<https://github.com/FR33THYFR33THY/Debunking-Custom-ISOS-And-Windows-Optimizations>)<br><br>
 [Server-Enterprise-Install-Guide](<https://github.com/FR33THYFR33THY/Server-Enterprise-Install-Guide>)<br><br>
-[Disable Anti Aliasing](<https://github.com/FR33THYFR33THY/Disable-Anti-Aliasing>)<br><br>
 [Nvidia Legacy Sharpen](<https://github.com/FR33THYFR33THY/Nvidia-Legacy-Sharpen>)<br><br>
+[Disable Anti Aliasing](<https://github.com/FR33THYFR33THY/Disable-Anti-Aliasing>)<br><br>
 [LOD Bias](<https://github.com/FR33THYFR33THY/LOD-Bias>)<br><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FR33THYFR33THY&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br><br>

@@ -10,6 +10,7 @@ OTHER<br><br>
 [Nvidia Legacy Sharpen](<https://github.com/FR33THYFR33THY/Nvidia-Legacy-Sharpen>)<br><br>
 [Disable Anti Aliasing](<https://github.com/FR33THYFR33THY/Disable-Anti-Aliasing>)<br><br>
 [DLSS Force Latest](<https://github.com/FR33THYFR33THY/DLSS-Force-Latest>)<br><br>
+[DIY Latency Tool](<https://github.com/FR33THYFR33THY/DIY-Latency-Tool>)<br><br>
 [LOD Bias](<https://github.com/FR33THYFR33THY/LOD-Bias>)<br><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FR33THYFR33THY&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br><br>

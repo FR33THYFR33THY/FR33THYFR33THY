@@ -1,11 +1,15 @@
-Content dedicated to Windows, gaming, latency, and PC optimization.<br><br>
+## Content dedicated to Windows, gaming, latency, and PC optimization.
+<br><br>
+- One Click Script<br>
+[WinSux](<https://github.com/FR33THYFR33THY/WinSux>)
 
-MAIN<br><br>
-[WinSux](<https://github.com/FR33THYFR33THY/WinSux>)<br><br>
-[Ultimate](<https://github.com/FR33THYFR33THY/Ultimate>)<br><br>
-[Github Game Configs](<https://github.com/FR33THYFR33THY/Github-Game-Configs>)<br><br>
-<br><br><br><br>
-OTHER<br><br>
+- Scripts With Revert Options<br>
+[Ultimate](<https://github.com/FR33THYFR33THY/Ultimate>)
+
+- Game Configs<br>
+[Github Game Configs](<https://github.com/FR33THYFR33THY/Github-Game-Configs>)
+<br><br>
+- Other<br>
 [Debunking Custom ISOS And Windows Optimizations](<https://github.com/FR33THYFR33THY/Debunking-Custom-ISOS-And-Windows-Optimizations>)<br><br>
 [Server-Enterprise-Install-Guide](<https://github.com/FR33THYFR33THY/Server-Enterprise-Install-Guide>)<br><br>
 [Nvidia Legacy Sharpen](<https://github.com/FR33THYFR33THY/Nvidia-Legacy-Sharpen>)<br><br>
@@ -13,6 +17,3 @@ OTHER<br><br>
 [DLSS Force Latest](<https://github.com/FR33THYFR33THY/DLSS-Force-Latest>)<br><br>
 [DIY Latency Tool](<https://github.com/FR33THYFR33THY/DIY-Latency-Tool>)<br><br>
 [LOD Bias](<https://github.com/FR33THYFR33THY/LOD-Bias>)<br><br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FR33THYFR33THY&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br><br>
-[![](https://visitcount.itsvg.in/api?id=FR33THYFR33THY&icon=0&color=0)](https://visitcount.itsvg.in)

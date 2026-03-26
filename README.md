@@ -1,7 +1,7 @@
 Content dedicated to Windows, gaming, latency, and PC optimization.<br><br>
 
 MAIN<br><br>
-[WinSux Windows Optimization Guide](<https://github.com/FR33THYFR33THY/WinSux-Windows-Optimization-Guide>)<br><br>
+[WinSux](<https://github.com/FR33THYFR33THY/WinSux>)<br><br>
 [Ultimate](<https://github.com/FR33THYFR33THY/Ultimate>)<br><br>
 [Github Game Configs](<https://github.com/FR33THYFR33THY/Github-Game-Configs>)<br><br>
 <br><br><br><br>

@@ -1,4 +1,4 @@
-## Content dedicated to Windows, gaming, latency, and PC optimization.
+Content dedicated to Windows, gaming, latency, and PC optimization.
 <br><br>
 - One Click Script<br>
 [WinSux](<https://github.com/FR33THYFR33THY/WinSux>)

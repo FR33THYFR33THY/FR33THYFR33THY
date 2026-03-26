@@ -10,7 +10,7 @@
 <br><br>
 - Other<br>
 [Debunking Custom ISOS And Windows Optimizations](<https://github.com/FR33THYFR33THY/Debunking-Custom-ISOS-And-Windows-Optimizations>)<br><br>
-[Server-Enterprise-Install-Guide](<https://github.com/FR33THYFR33THY/Server-Enterprise-Install-Guide>)<br><br>
+[Server Enterprise Install Guide](<https://github.com/FR33THYFR33THY/Server-Enterprise-Install-Guide>)<br><br>
 [Nvidia Legacy Sharpen](<https://github.com/FR33THYFR33THY/Nvidia-Legacy-Sharpen>)<br><br>
 [Disable Anti Aliasing](<https://github.com/FR33THYFR33THY/Disable-Anti-Aliasing>)<br><br>
 [DLSS Force Latest](<https://github.com/FR33THYFR33THY/DLSS-Force-Latest>)<br><br>
